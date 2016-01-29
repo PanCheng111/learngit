@@ -1,2 +1,2 @@
 Mr.Pan is a good man.
-	int i, j, k;
+And his manner is good.
